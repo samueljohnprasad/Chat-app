@@ -1,5 +1,5 @@
 # Chat-app
-Chat app UI basic functionality.
+Android chat application.
 
 https://drive.google.com/open?id=1qWP0dNTLjAzL4END7fnFNcVVZq4affYY
 
